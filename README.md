@@ -1,5 +1,5 @@
 # verbose-invention
-Repository of early XIXth century belgian prose, to be archived in the vault.
+Repository of early XIXth century belgian prose, placed here for the world to see and to be archived in the Arctic Code Vault.
 
 # Purpose
 
